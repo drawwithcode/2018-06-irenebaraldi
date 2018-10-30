@@ -1,0 +1,168 @@
+{
+  "number": 14,
+  "people":[
+  {
+    "name": "Tyrion Lannister",
+    "imdbUrl": "http://www.imdb.com/character/ch0146096/",
+    "screentime": 293.3,
+    "episodes": 54,
+    "posizione": 1,
+    "portrayedBy": {
+      "name": "Peter Dinklage",
+      "imdbUrl": "http://www.imdb.com/name/nm0227759/"
+    }
+  },
+  {
+    "name": "Jon Snow",
+    "imdbUrl": "http://www.imdb.com/character/ch0155777/",
+    "screentime": 268.15,
+    "episodes": 49,
+    "posizione": 2,
+    "portrayedBy": {
+      "name": "Kit Harington",
+      "imdbUrl": "http://www.imdb.com/name/nm3229685/"
+    }
+  },
+  {
+    "name": "Daenerys Targaryen",
+    "imdbUrl": "http://www.imdb.com/character/ch0158597/",
+    "screentime": 221.3,
+    "episodes": 49,
+    "posizione": 3,
+    "portrayedBy": {
+      "name": "Emilia Clarke",
+      "imdbUrl": "http://www.imdb.com/name/nm3592338/"
+    }
+  },
+  {
+    "name": "Cersei Lannister",
+    "imdbUrl": "http://www.imdb.com/character/ch0159526/",
+    "screentime": 201.45,
+    "episodes": 52,
+    "posizione": 4,
+    "portrayedBy": {
+      "name": "Lena Headey",
+      "imdbUrl": "http://www.imdb.com/name/nm0372176/"
+    }
+  },
+  {
+    "name": "Sansa Stark",
+    "imdbUrl": "http://www.imdb.com/character/ch0158137/",
+    "screentime": 199.3,
+    "episodes": 47,
+    "posizione": 5,
+    "portrayedBy": {
+      "name": "Sophie Turner",
+      "imdbUrl": "http://www.imdb.com/name/nm3849842/"
+    }
+  },
+  {
+    "name": "Arya Stark",
+    "imdbUrl": "http://www.imdb.com/character/ch0158604/",
+    "screentime": 189.15,
+    "episodes": 47,
+    "posizione": 6,
+    "portrayedBy": {
+      "name": "Maisie Williams",
+      "imdbUrl": "http://www.imdb.com/name/nm3586035/"
+    }
+  },
+  {
+    "name": "Jaime Lannister",
+    "imdbUrl": "http://www.imdb.com/character/ch0158527/",
+    "screentime": 162.3,
+    "episodes": 43,
+    "posizione": 7,
+    "portrayedBy": {
+      "name": "Nikolaj Coster-Waldau",
+      "imdbUrl": "http://www.imdb.com/name/nm0182666/"
+    }
+  },
+  {
+    "name": "Theon Greyjoy",
+    "imdbUrl": "http://www.imdb.com/character/ch0158526/",
+    "screentime": 123.3,
+    "episodes": 39,
+    "posizione": 8,
+    "portrayedBy": {
+      "name": "Alfie Allen",
+      "imdbUrl": "http://www.imdb.com/name/nm0654295/"
+    }
+  },
+  {
+    "name": "Samwell Tarly",
+    "imdbUrl": "http://www.imdb.com/character/ch0244961/",
+    "screentime": 121.45,
+    "episodes": 37,
+    "posizione": 9,
+    "portrayedBy": {
+      "name": "John Bradley",
+      "imdbUrl": "http://www.imdb.com/name/nm4263213/"
+    }
+  },
+  {
+    "name": "Jorah Mormont",
+    "imdbUrl": "http://www.imdb.com/character/ch0158221/",
+    "screentime": 117.3,
+    "episodes": 42,
+    "portrayedBy": {
+      "name": "Iain Glen",
+      "imdbUrl": "http://www.imdb.com/name/nm0322513/"
+    }
+  },
+  {
+    "name": "Petyr 'Littlefinger' Baelish",
+    "imdbUrl": "http://www.imdb.com/character/ch0245982/",
+    "screentime": 102.15,
+    "episodes": 35,
+    "posizione": 10,
+    "portrayedBy": {
+      "name": "Aidan Gillen",
+      "imdbUrl": "http://www.imdb.com/name/nm0318821/"
+    }
+  },
+  {
+    "name": "Eddard 'Ned' Stark",
+    "imdbUrl": "http://www.imdb.com/character/ch0154681/",
+    "screentime": 99.45,
+    "episodes": 16,
+    "posizione": 11,
+    "portrayedBy": {
+      "name": "Sean Bean",
+      "imdbUrl": "http://www.imdb.com/name/nm0000293/"
+    }
+  },
+  {
+    "name": "Brienne of Tarth",
+    "imdbUrl": "http://www.imdb.com/character/ch0254503/",
+    "screentime": 89.3,
+    "episodes": 32,
+    "posizione": 12,
+    "portrayedBy": {
+      "name": "Gwendoline Christie",
+      "imdbUrl": "http://www.imdb.com/name/nm3729225/"
+    }
+  },
+  {
+    "name": "Davos Seaworth",
+    "imdbUrl": "http://www.imdb.com/character/ch0255396/",
+    "screentime": 89.3,
+    "episodes": 29,
+    "posizione": 13,
+    "portrayedBy": {
+      "name": "Liam Cunningham",
+      "imdbUrl": "http://www.imdb.com/name/nm0192377/"
+    }
+  },
+  {
+    "name": "Bran Stark",
+    "imdbUrl": "http://www.imdb.com/character/ch0234897/",
+    "screentime": 86,
+    "episodes": 30,
+    "posizione": 14,
+    "portrayedBy": {
+      "name": "Isaac Hempstead Wright",
+      "imdbUrl": "http://www.imdb.com/name/nm3652842/"
+    }
+  } ]
+}
